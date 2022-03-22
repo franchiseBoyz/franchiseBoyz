@@ -59,5 +59,11 @@ I am a Data Analyst by passion and training <img src="https://media.giphy.com/me
 
 ---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 
 
