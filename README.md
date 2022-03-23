@@ -65,6 +65,9 @@ I am a Data Analyst by passion and training <img src="https://media.giphy.com/me
 - [Introduction to Modern Python](https://dev.to/troyegilbert/introduction-to-modern-python-2288)
 <!-- BLOG-POST-LIST:END -->
 
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wjfh7sviv3w5fqgdrgkmjuo4j4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
