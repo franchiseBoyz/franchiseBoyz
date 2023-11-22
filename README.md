@@ -15,16 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
-I am a Data Analyst by passion and training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-
-- 🔭: I'm a climber, to be precise, I am an explorer. I enjoy exploring data to get information.
-- ⚡: Exploring Technical Content Writing.
-- 🌱: I believe I can increase my skills with practice, consistency and discipline.
-- ⚽: In my free time, I enjoy playing soccer, cycling and playing FIFA.
-- 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-troyegilbert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/troye-gilbert-94663a1a7)
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franchiseBoyz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
