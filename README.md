@@ -15,13 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Data Structures and Algorithms using Python](https://dev.to/troyegilbert/data-structures-and-algorithms-using-python-1m7l)
-- [Introduction to Modern Python](https://dev.to/troyegilbert/introduction-to-modern-python-2288)
-<!-- BLOG-POST-LIST:END -->
-
----
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wjfh7sviv3w5fqgdrgkmjuo4j4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
